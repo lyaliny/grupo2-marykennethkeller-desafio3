@@ -31,3 +31,21 @@ C:\Users\Windows\source\repos\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\
 C:\Users\Windows\source\repos\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Infra.dll
 C:\Users\Windows\source\repos\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
 C:\Users\Windows\source\repos\Todo\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.genruntimeconfig.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.deps.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.runtimeconfig.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.runtimeconfig.dev.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\ref\WoMakersCode.ToDoList.Infra.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\bin\Debug\net5.0\WoMakersCode.ToDoList.Core.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.AssemblyReference.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.AssemblyInfoInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.AssemblyInfo.cs
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.CoreCompileInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.csproj.CopyComplete
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\ref\WoMakersCode.ToDoList.Infra.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Desafio 3 - Mary Kenneth\grupo2-marykennethkeller-desafio3\WoMakersCode.ToDoList.Infra\obj\Debug\net5.0\WoMakersCode.ToDoList.Infra.genruntimeconfig.cache

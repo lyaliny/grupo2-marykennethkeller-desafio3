@@ -20,18 +20,21 @@ namespace WoMakersCode.ToDoList.Controllers
         private readonly ILogger<ToDoListController> _logger;
         private readonly IUseCaseAsync<TaskListRequest, TaskListResponse> _insertUseCase;
         private readonly IUseCaseAsync<int, TaskListResponse> _getUseCase;
+        private readonly IUseCaseAsync<string, List<TaskListResponse>> _getAllUseCase;
         private readonly IUseCaseAsync<TaskRequest, TaskResponse> _insertTaskDetailUseCase;
         private readonly IUseCaseAsync<string, WeatherDTO> _getWeatherForecastUseCase;
 
         public ToDoListController(ILogger<ToDoListController> logger,
             IUseCaseAsync<TaskListRequest, TaskListResponse> insertUseCase,
             IUseCaseAsync<int, TaskListResponse> getUseCase,
+            IUseCaseAsync<string, List<TaskListResponse>> getAllUseCase,
             IUseCaseAsync<TaskRequest, TaskResponse> insertTaskDetailUseCase,
             IUseCaseAsync<string, WeatherDTO> getWeatherForecastUseCase)
         {
             _logger = logger;
             _insertUseCase = insertUseCase;
             _getUseCase = getUseCase;
+            _getAllUseCase = getAllUseCase;
             _insertTaskDetailUseCase = insertTaskDetailUseCase;
             _getWeatherForecastUseCase = getWeatherForecastUseCase;
 
@@ -63,6 +66,17 @@ namespace WoMakersCode.ToDoList.Controllers
         public async Task<ActionResult<WeatherDTO>> GetWeatherForcast()
         {
             var response = await _getWeatherForecastUseCase.ExecuteAsync(string.Empty);
+
+            return new OkObjectResult(response);
+        }
+
+
+        [HttpGet("GetAll")]
+        public async Task<ActionResult<TaskListResponse>> GetAll()
+        {
+            var response = await _getAllUseCase.ExecuteAsync(string.Empty);
+            if (response == null)
+                return new NotFoundObjectResult("Não encontrado");
 
             return new OkObjectResult(response);
         }
