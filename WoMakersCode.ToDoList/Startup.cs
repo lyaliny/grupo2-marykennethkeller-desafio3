@@ -38,6 +38,7 @@ namespace WoMakersCode.ToDoList
         {
             services.AddTransient<IUseCaseAsync<TaskListRequest, TaskListResponse>, InsertTodoListUseCase>();
             services.AddTransient<IUseCaseAsync<int, TaskListResponse>, GetTodoListUseCase>();
+            services.AddTransient<IUseCaseAsync<string, List<TaskListResponse>>, GetAllTodoListUseCase>();
             services.AddTransient<IUseCaseAsync<TaskRequest, TaskResponse>, InsertTaskDetailUseCase>();
             services.AddTransient<IRepository, ToDoListRepository>();
             services.AddTransient<ApplicationContext>();

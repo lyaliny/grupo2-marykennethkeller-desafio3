@@ -40,5 +40,10 @@ namespace WoMakersCode.ToDoList.Infra.Repositories
 
             return Task.CompletedTask;
         }
+
+        public Task<List<TaskList>> GetTaskAll()
+        {
+            return Task.FromResult(_context.Set<TaskList>().ToList());
+        }
     }
 }

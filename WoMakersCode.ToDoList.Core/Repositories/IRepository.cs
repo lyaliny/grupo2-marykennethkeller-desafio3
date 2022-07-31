@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using WoMakersCode.ToDoList.Core.Entities;
 
 namespace WoMakersCode.ToDoList.Core.Repositories
@@ -8,5 +9,6 @@ namespace WoMakersCode.ToDoList.Core.Repositories
         Task Inserir(TaskList taskList);
         Task<TaskList> GetTaskList(int id);
         Task InserirTask(TaskDetail taskDetail);
+        Task<List<TaskList>> GetTaskAll();
     }
 }
